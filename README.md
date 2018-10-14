@@ -12,3 +12,5 @@
 ### Novels Collection
 - [I'll be gone in the dark - Michelle McNamara](https://www.goodreads.com/book/show/35068432-i-ll-be-gone-in-the-dark?from_search=true)
 - [And the Mountains Echoed - Khaled Hosseni](https://www.goodreads.com/book/show/16115612-and-the-mountains-echoed)
+- [A Walk To Remember - Nicholas Sparks](https://www.goodreads.com/book/show/35545737-a-walk-to-remember)
+- [Rich Dad, Poor Dad - Robert T. Kiyosaki](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
